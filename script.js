@@ -1,6 +1,6 @@
 const container = document.querySelector(".container");
 const button = document.querySelector("button");
-
+// Test
 function setupGrid(value) {
   if (container.firstChild) {
     container.innerHTML = "";
